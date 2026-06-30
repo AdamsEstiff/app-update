@@ -1,0 +1,13 @@
+{
+    "id":"ddad0508-9070-4162-a347-076a270b707a"
+    "version": "3.17.0",
+    "build": 5,
+    "force": true,
+    "mandatory": true,
+    "apk": "https://AdamsEstiff.github.io/app-update/apk/app-release.apk",
+    "changes": [
+        "Corrección de errores",
+        "Mejor rendimiento",
+        "Nuevo módulo de fotografías"
+    ]
+}
