@@ -1,8 +1,8 @@
 {
     "id": "ddad0508-9070-4162-a347-076a270b707a",
-    "version": "3.17.0",
+    "version": "3.18.01",
     "force": 1,
-    "apk": "https://AdamsEstiff.github.io/app-update/apk/SAM_v3.17.0.apk",
+    "apk": "https://AdamsEstiff.github.io/app-update/apk/SAM_v3.18.01.apk",
     "changes": "Se actualizan las vistas de perfiles \nSe actualiza la vista de calendario\nSe corrigen bugs de falta de tipado en context, en las vistas de Encuestas\nSe corrije bug que impedia que los reintentos de archivos fueran exitosos\nSe actualiza retry para que si el programador lo desea, pueda devolver el tipo de error original y no el mensaje personalizado\nSe eliminan componentes no necesarios\nSe añade una nueva función en format_dates para poner rapidamente tipar fechas\nSe corrigen las fechas en historial de visitas",
     "created_at": "2026-07-01T10:34:00.000000Z",
     "updated_at": "2026-07-01T10:34:00.000000Z"
