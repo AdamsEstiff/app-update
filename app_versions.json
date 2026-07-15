@@ -1,9 +1,11 @@
-[{
-    "id": "ddad0508-9070-4162-a347-076a270b707a",
-    "version": "3.18.01",
-    "force": 1,
-    "apk": "https://AdamsEstiff.github.io/app-update/apk/SAM_v3.18.1.apk",
-    "changes": "Se corrige el bug donde la primera vez que se abre automáticamente la vista de la lista de reportes, no deja hacer check out",
-    "created_at": "2026-07-14:34:00.000000Z",
-    "updated_at": "2026-07-14:34:00.000000Z"
-}]
+[
+    {
+        "id": "ddad0508-9070-4162-a347-076a270b707a",
+        "version": "3.18.01",
+        "mandatory": 1,
+        "link": "https://AdamsEstiff.github.io/app-update/apk/SAM_v3.18.1.apk",
+        "changes": "Se corrige el bug donde la primera vez que se abre automáticamente la vista de la lista de reportes, no deja hacer check out",
+        "created_at": "2026-07-14:34:00.000000Z",
+        "updated_at": "2026-07-14:34:00.000000Z"
+    }
+]
