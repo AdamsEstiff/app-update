@@ -4,7 +4,15 @@
         "version": "3.18.01",
         "mandatory": 1,
         "link": "https://AdamsEstiff.github.io/app-update/apk/SAM_v3.18.1.apk",
-        "created_at": "2026-07-14:34:00.000000Z",
-        "updated_at": "2026-07-14:34:00.000000Z"
+        "created_at": "2026-07-14 14:34:00.000000Z",
+        "updated_at": "2026-07-14 14:34:00.000000Z"
+    },
+    {
+        "id": "ddad0508-9070-4162-f238-369c189m316b",
+        "version": "4.0.11",
+        "mandatory": 1,
+        "link": "https://AdamsEstiff.github.io/app-update/apk/SAM_v4.0.11.apk",
+        "created_at": "2026-07-22 20:48:00.000000Z",
+        "updated_at": "2026-07-22 20:48:00.000000Z"
     }
 ]
